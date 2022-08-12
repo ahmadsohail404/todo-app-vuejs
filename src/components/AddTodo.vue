@@ -60,4 +60,7 @@ form {
 input::placeholder {
   color: #4285f4;
 }
+button {
+  background-color: #4285f4 !important;
+}
 </style>
