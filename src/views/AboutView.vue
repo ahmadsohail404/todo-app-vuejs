@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h2>This is a To-Do Application build with vue.js</h2>
+    <h2>This is a To-Do Application built with vue.js</h2>
   </div>
 </template>
 

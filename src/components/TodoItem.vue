@@ -32,7 +32,7 @@ export default {
   justify-content: center;
 }
 .todo-item {
-  width: 30vw;
+  width: 600px;
   background: #f4f4f4;
   padding: 10px;
   border-bottom: 1px solid #ccc;
